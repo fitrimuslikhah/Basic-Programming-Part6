@@ -3,10 +3,10 @@
 clone project ini dengan cara
 
 ```
-git clone https://github.com/Immersive-DataEngineer-Resource/Basic-Programming-Part5.git
+git clone https://github.com/Immersive-DataEngineer-Resource/Basic-Programming-Part6.git
 ```
 
-setelah clone selesai, jalankan perintah `cd Basic-Programming-Part5` --> **HAL INI DILAKUKAN 1x saja**
+setelah clone selesai, jalankan perintah `cd Basic-Programming-Part6` --> **HAL INI DILAKUKAN 1x saja**
 
 Setelah pindah folder, lakukan perintah dibawah ini secara berurutan :
 
@@ -20,7 +20,7 @@ setelah menjalankan perintah diatas, lakukan inisialisasi ulang untuk git dengan
 git init
 ```
 
-buat repository pada github organization kalian dengan format: `Basic-Programming-Part5`
+buat repository pada github organization kalian dengan format: `Basic-Programming-Part6`
 
 ## Tatacara Mengerjakan Tugas
 
