@@ -1,6 +1,7 @@
 def array_unique(arrayA, arrayB):
     # your code here
-    return ''
+    unique_elements = set(arrayA) ^ set(arrayB)
+    return list(unique_elements)
 
 if __name__ == '__main__':
     print(array_unique([1, 2, 3, 4], [1, 3, 5, 10, 16])) # [2, 4]
